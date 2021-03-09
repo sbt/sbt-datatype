@@ -252,7 +252,7 @@ abstract class CodeGenerator {
 
   protected def generateHeader: String =
     """/**
-      | * This code is generated using [[https://www.scala-sbt.org/contraband/ sbt-contraband]].
+      | * This code is generated using [[https://www.scala-sbt.org/contraband]].
       | */
       |
       |// DO NOT EDIT MANUALLY
